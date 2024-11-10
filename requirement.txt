@@ -3,6 +3,6 @@ firebase-admin
 Pillow
 requests
 pandas
-opencv-python
+opencv-python-headless
 numpy
 uuid
